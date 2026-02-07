@@ -18,7 +18,7 @@ const Header = () => {
                 <img
                     src={image}
                     alt="logo"
-                    className="w-24 h-10 absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 md:w-20 md:h-8 lg:w-28 lg:h-12"
+                    className="w-24 h-10 absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 md:w-20 md:h-h-9 lg:w-28 lg:h-9"
                 />
 
                 {/* Left menu (desktop) */}
@@ -37,7 +37,7 @@ const Header = () => {
                     </ul>
                     <Button 
                         name="Logout" 
-                        className='border border-[#3AC8D1] text-lg text-[#0CBBC7] hover:scale-105 transition'
+                        className='border border-[#3AC8D1] text-2xl text-[#0CBBC7] hover:scale-105 transition'
                     />
                 </div>
 

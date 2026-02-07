@@ -27,7 +27,7 @@ const Footer = () => {
                             <li key={index}>
                                 <a 
                                     href="#"
-                                    className="hover:text-[#0CBBC7] transition-colors duration-300"
+                                    className="hover:text-[#1e639c] text-white transition-colors duration-300"
                                 >
                                     {item}
                                 </a>
@@ -44,7 +44,7 @@ const Footer = () => {
                             <li key={index}>
                                 <a 
                                     href="#"
-                                    className="hover:text-[#0CBBC7] transition-colors duration-300"
+                                    className="hover:text-[#1e639c] text-white transition-colors duration-300"
                                 >
                                     {item}
                                 </a>
@@ -61,7 +61,7 @@ const Footer = () => {
                             <li key={index}>
                                 <a 
                                     href="#"
-                                    className="hover:text-[#0CBBC7] transition-colors duration-300"
+                                    className="hover:text-[#1e639c] text-white transition-colors duration-300"
                                 >
                                     {item}
                                 </a>
@@ -78,10 +78,10 @@ const Footer = () => {
                 {/* Social Icons */}
                 <div className="flex space-x-4 mt-2 md:mt-0">
                     <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
-                        <Linkedin size={18} className="hover:text-[#0CBBC7] transition-colors duration-300" />
+                        <Linkedin size={18} className="hover:text-[#1e639c] text-white transition-colors duration-300" />
                     </a>
                     <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">
-                        <Twitter size={18} className="hover:text-[#0CBBC7] transition-colors duration-300" />
+                        <Twitter size={18} className="hover:text-[#1e639c] text-white transition-colors duration-300" />
                     </a>
                 </div>
 
@@ -90,7 +90,7 @@ const Footer = () => {
                         <a 
                             key={index} 
                             href="#"
-                            className="hover:text-[#0CBBC7] transition-colors duration-300"
+                            className="hover:text-[#1e639c] text-white transition-colors duration-300"
                         >
                             {item}
                         </a>

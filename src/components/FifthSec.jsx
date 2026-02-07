@@ -32,7 +32,7 @@ const FifthSec = () => {
             name="Resource"
             className="font-bold  mb-8 bg-[#dcfbfd] rounded text-[#0CBBC7] px-8 py-3 text-lg  hover:scale-105 transition"
           />
-        <h2 className="text-3xl md:text-4xl font-bold">
+        <h2 className="text-3xl md:text-4xl font-bold mt-10">
           Stay in the <span className="font-bold">know</span>
         </h2>
       </div>

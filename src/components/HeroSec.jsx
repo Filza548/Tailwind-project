@@ -53,6 +53,7 @@ const HeroSec = () => {
             w-full
          max-w-7xl
             mx-auto
+            mt-16
           "
         />
 
